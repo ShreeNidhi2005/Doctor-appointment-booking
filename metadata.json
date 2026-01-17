@@ -1,0 +1,8 @@
+{
+  "name": "MediConnect Pro",
+  "description": "A comprehensive healthcare appointment booking system featuring AI-powered symptom triage, doctor discovery across multiple specialties, and streamlined appointment management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
